@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab3\\WhatDay1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BADD5C51-7E79-42B9-B462-BCF8AC2956A6}|WhatDay1\\WhatDay1.csproj|c:\\mygit\\lab\\lab3\\whatday1\\whatday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BADD5C51-7E79-42B9-B462-BCF8AC2956A6}|WhatDay1\\WhatDay1.csproj|solutionrelative:whatday1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BADD5C51-7E79-42B9-B462-BCF8AC2956A6}|WhatDay1\\WhatDay1.csproj|c:\\mygit\\lab\\lab3\\whatday1\\whatday1\\whatday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADD5C51-7E79-42B9-B462-BCF8AC2956A6}|WhatDay1\\WhatDay1.csproj|solutionrelative:whatday1\\whatday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab3\\WhatDay1\\WhatDay1\\Program.cs",
-              "RelativeDocumentMoniker": "WhatDay1\\Program.cs",
-              "ToolTip": "C:\\MyGit\\Lab\\Lab3\\WhatDay1\\WhatDay1\\Program.cs",
-              "RelativeToolTip": "WhatDay1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WhatDay.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab3\\WhatDay1\\WhatDay1\\WhatDay.cs",
+              "RelativeDocumentMoniker": "WhatDay1\\WhatDay.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab3\\WhatDay1\\WhatDay1\\WhatDay.cs",
+              "RelativeToolTip": "WhatDay1\\WhatDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T18:03:17.819Z",
               "EditorCaption": ""

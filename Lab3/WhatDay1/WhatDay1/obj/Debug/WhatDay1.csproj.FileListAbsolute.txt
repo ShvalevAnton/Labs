@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.exe.config
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.exe
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\bin\Debug\WhatDay1.pdb
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.exe
+C:\MyGit\Lab\Lab3\WhatDay1\WhatDay1\obj\Debug\WhatDay1.pdb
