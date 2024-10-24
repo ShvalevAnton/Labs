@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab2\Divider\Divider\bin\Debug\Divider.exe.config
+C:\MyGit\Lab\Lab2\Divider\Divider\bin\Debug\Divider.exe
+C:\MyGit\Lab\Lab2\Divider\Divider\bin\Debug\Divider.pdb
+C:\MyGit\Lab\Lab2\Divider\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab2\Divider\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab2\Divider\Divider\obj\Debug\Divider.exe
+C:\MyGit\Lab\Lab2\Divider\Divider\obj\Debug\Divider.pdb

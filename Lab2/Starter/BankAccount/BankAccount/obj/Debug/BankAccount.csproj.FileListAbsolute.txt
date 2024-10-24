@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\MyGit\Lab\Lab3\Starter\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

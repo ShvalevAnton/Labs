@@ -1,0 +1,14 @@
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\bin\Debug\Distance.exe.config
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\bin\Debug\Distance.exe
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\bin\Debug\Distance.pdb
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\obj\Debug\Distance.exe
+C:\MyGit\Lab\Lab3\Starter\Distance\Distance\obj\Debug\Distance.pdb
+C:\MyGit\Lab\Lab2\Distance\Distance\bin\Debug\Distance.exe.config
+C:\MyGit\Lab\Lab2\Distance\Distance\bin\Debug\Distance.exe
+C:\MyGit\Lab\Lab2\Distance\Distance\bin\Debug\Distance.pdb
+C:\MyGit\Lab\Lab2\Distance\Distance\obj\Debug\Distance.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab2\Distance\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab2\Distance\Distance\obj\Debug\Distance.exe
+C:\MyGit\Lab\Lab2\Distance\Distance\obj\Debug\Distance.pdb

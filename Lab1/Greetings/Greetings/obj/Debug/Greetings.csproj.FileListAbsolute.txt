@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab2\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\MyGit\Lab\Lab2\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\MyGit\Lab\Lab2\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\MyGit\Lab\Lab2\Greetings\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab2\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab2\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\MyGit\Lab\Lab2\Greetings\Greetings\obj\Debug\Greetings.pdb

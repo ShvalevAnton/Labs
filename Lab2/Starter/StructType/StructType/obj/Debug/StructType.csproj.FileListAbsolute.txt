@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\bin\Debug\StructType.exe.config
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\bin\Debug\StructType.exe
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\bin\Debug\StructType.pdb
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\obj\Debug\StructType.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\obj\Debug\StructType.exe
+C:\MyGit\Lab\Lab3\Starter\StructType\StructType\obj\Debug\StructType.pdb
