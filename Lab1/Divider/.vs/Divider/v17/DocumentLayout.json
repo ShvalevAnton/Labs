@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab2\\Divider\\",
+  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab1\\Divider\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A28AB077-2C41-47E6-A02C-4314C1974EF8}|Divider\\Divider.csproj|c:\\mygit\\lab\\lab2\\divider\\divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A28AB077-2C41-47E6-A02C-4314C1974EF8}|Divider\\Divider.csproj|c:\\mygit\\lab\\lab1\\divider\\divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A28AB077-2C41-47E6-A02C-4314C1974EF8}|Divider\\Divider.csproj|solutionrelative:divider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab2\\Divider\\Divider\\Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab1\\Divider\\Divider\\Program.cs",
               "RelativeDocumentMoniker": "Divider\\Program.cs",
-              "ToolTip": "C:\\MyGit\\Lab\\Lab2\\Divider\\Divider\\Program.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab1\\Divider\\Divider\\Program.cs",
               "RelativeToolTip": "Divider\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T18:50:50.677Z",
               "EditorCaption": ""
