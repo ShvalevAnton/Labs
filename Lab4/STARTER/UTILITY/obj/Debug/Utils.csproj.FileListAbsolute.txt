@@ -1,0 +1,12 @@
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\bin\Debug\Utils.exe
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\bin\Debug\Utils.pdb
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.exe
+Y:\06_Предметы\02_Программирование на C#\02_Программирование_C#\Labs\Lab05\STARTER\UTILITY\obj\Debug\Utils.pdb
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\bin\Debug\Utils.exe
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\bin\Debug\Utils.pdb
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\obj\Debug\Utils.exe
+C:\MyGit\Lab\Lab4\STARTER\UTILITY\obj\Debug\Utils.pdb

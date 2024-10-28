@@ -1,0 +1,14 @@
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\obj\Debug\regionTriangle.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\obj\Debug\regionTriangle.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\bin\Debug\regionTriangle.exe.config
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\bin\Debug\regionTriangle.exe
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\bin\Debug\regionTriangle.pdb
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\obj\Debug\regionTriangle.exe
+C:\MyGit\Lab\Lab2\regionTriangle\regionTriangle\obj\Debug\regionTriangle.pdb
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\bin\Debug\regionTriangle.exe.config
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\bin\Debug\regionTriangle.exe
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\bin\Debug\regionTriangle.pdb
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\obj\Debug\regionTriangle.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\obj\Debug\regionTriangle.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\obj\Debug\regionTriangle.exe
+C:\MyGit\Lab\Lab4\regionTriangle\regionTriangle\obj\Debug\regionTriangle.pdb
