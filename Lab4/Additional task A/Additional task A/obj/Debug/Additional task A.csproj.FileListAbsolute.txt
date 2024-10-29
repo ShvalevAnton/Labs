@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\obj\Debug\Additional task A.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\obj\Debug\Additional task A.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\bin\Debug\Additional task A.exe.config
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\bin\Debug\Additional task A.exe
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\bin\Debug\Additional task A.pdb
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\obj\Debug\Additional task A.exe
+C:\MyGit\Lab\Lab4\Additional task A\Additional task A\obj\Debug\Additional task A.pdb
