@@ -9,8 +9,9 @@ namespace Additional_task_A
     internal class Program
     {
         // Статический метод расчета 
-        static public double calcSquRoot(double target, ref double x)
-        {            
+        static public double calcSquRoot(double target)
+        {
+            double x = 1;
             double oldx;
             do
             {
@@ -22,12 +23,10 @@ namespace Additional_task_A
         }
         static void Main(string[] args)
         {
-            double target = 2023;
-            // Объявление и инициализация переменной, для которой требуется определить квадратный корень.
-            double x = 1;
+            double target = 2023;         
 
             // Вызов метода с передачей результата другой переменной.
-            double y = calcSquRoot(target,ref x);
+            double x = calcSquRoot(target);
 
             // Вывод результата (x) и проверочного значения (x*x) на экран.
             Console.WriteLine(x);
