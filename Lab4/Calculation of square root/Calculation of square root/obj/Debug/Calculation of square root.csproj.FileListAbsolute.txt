@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\bin\Debug\Calculation of square root.exe.config
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\bin\Debug\Calculation of square root.exe
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\bin\Debug\Calculation of square root.pdb
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\obj\Debug\Calculation of square root.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\obj\Debug\Calculation of square root.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\obj\Debug\Calculation of square root.exe
+C:\MyGit\Lab\Lab4\Calculation of square root\Calculation of square root\obj\Debug\Calculation of square root.pdb
