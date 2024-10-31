@@ -9,11 +9,11 @@ namespace Calculation_of_square_root
 {
     internal class Program
     {
-        static public (int, double, double) calcSquRoot(double a, double b, double c, double x1, double x2)
-        {
-            double D = Math.Pow(b,2) - (4 * a * c);
-            x1 = (-b - Math.Sqrt(D)) / (2 * a);
-            x2 = (-b + Math.Sqrt(D)) / (2 * a);
+        static public (int, double, double) calcSquRoot((double a, double b, double c)cor)
+        {            
+            double D = Math.Pow(cor.b,2) - (4 * cor.a * cor.c);
+            double x1 = (-cor.b - Math.Sqrt(D)) / (2 * cor.a);
+            double x2 = (-cor.b + Math.Sqrt(D)) / (2 * cor.a);
 
             // у квадратного уравнения два корня
             if (D > 0)
@@ -64,8 +64,7 @@ namespace Calculation_of_square_root
 
             double x1 = 0;
             double x2 = 0;
-
-            (int num, double x1, double x2 ) res = calcSquRoot(a, b, c, x1, x2);
+            (int num, double x1, double x2) res = calcSquRoot((a, b, c));
             switch (res.num)
             {
                 case -1:
