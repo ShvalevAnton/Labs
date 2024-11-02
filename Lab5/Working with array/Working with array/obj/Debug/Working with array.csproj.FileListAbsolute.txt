@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab5\Working with array\Working with array\bin\Debug\Working with array.exe.config
+C:\MyGit\Lab\Lab5\Working with array\Working with array\bin\Debug\Working with array.exe
+C:\MyGit\Lab\Lab5\Working with array\Working with array\bin\Debug\Working with array.pdb
+C:\MyGit\Lab\Lab5\Working with array\Working with array\obj\Debug\Working with array.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab5\Working with array\Working with array\obj\Debug\Working with array.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab5\Working with array\Working with array\obj\Debug\Working with array.exe
+C:\MyGit\Lab\Lab5\Working with array\Working with array\obj\Debug\Working with array.pdb
