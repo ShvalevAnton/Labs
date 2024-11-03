@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab2\\regionTriangle\\",
+  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab1\\regionTriangle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{536F980E-9ABB-4E30-A571-F0CC032040A5}|regionTriangle\\regionTriangle.csproj|c:\\mygit\\lab\\lab2\\regiontriangle\\regiontriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{536F980E-9ABB-4E30-A571-F0CC032040A5}|regionTriangle\\regionTriangle.csproj|c:\\mygit\\lab\\lab1\\regiontriangle\\regiontriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{536F980E-9ABB-4E30-A571-F0CC032040A5}|regionTriangle\\regionTriangle.csproj|solutionrelative:regiontriangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab2\\regionTriangle\\regionTriangle\\Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab1\\regionTriangle\\regionTriangle\\Program.cs",
               "RelativeDocumentMoniker": "regionTriangle\\Program.cs",
-              "ToolTip": "C:\\MyGit\\Lab\\Lab2\\regionTriangle\\regionTriangle\\Program.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab1\\regionTriangle\\regionTriangle\\Program.cs",
               "RelativeToolTip": "regionTriangle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T19:01:44.191Z",
               "EditorCaption": ""
