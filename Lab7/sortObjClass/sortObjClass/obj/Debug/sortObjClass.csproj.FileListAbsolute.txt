@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\bin\Debug\sortObjClass.exe.config
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\bin\Debug\sortObjClass.exe
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\bin\Debug\sortObjClass.pdb
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\obj\Debug\sortObjClass.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\obj\Debug\sortObjClass.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\obj\Debug\sortObjClass.exe
+C:\MyGit\Lab\Lab7\sortObjClass\sortObjClass\obj\Debug\sortObjClass.pdb

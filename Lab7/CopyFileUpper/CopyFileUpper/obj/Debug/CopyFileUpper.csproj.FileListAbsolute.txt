@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\bin\Debug\CopyFileUpper.exe.config
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\bin\Debug\CopyFileUpper.exe
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\bin\Debug\CopyFileUpper.pdb
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\obj\Debug\CopyFileUpper.exe
+C:\MyGit\Lab\Lab7\CopyFileUpper\CopyFileUpper\obj\Debug\CopyFileUpper.pdb

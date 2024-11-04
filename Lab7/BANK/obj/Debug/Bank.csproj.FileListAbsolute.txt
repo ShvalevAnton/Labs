@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab7\BANK\bin\Debug\MoreMethods.exe
+C:\MyGit\Lab\Lab7\BANK\bin\Debug\MoreMethods.pdb
+C:\MyGit\Lab\Lab7\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab7\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab7\BANK\obj\Debug\MoreMethods.exe
+C:\MyGit\Lab\Lab7\BANK\obj\Debug\MoreMethods.pdb

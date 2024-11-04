@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab7\INTERFACETEST\bin\Debug\Utils.exe
+C:\MyGit\Lab\Lab7\INTERFACETEST\bin\Debug\Utils.pdb
+C:\MyGit\Lab\Lab7\INTERFACETEST\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab7\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab7\INTERFACETEST\obj\Debug\Utils.exe
+C:\MyGit\Lab\Lab7\INTERFACETEST\obj\Debug\Utils.pdb

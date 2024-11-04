@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab7\UTILS\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab7\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab7\UTILS\bin\Debug\Utils.exe
+C:\MyGit\Lab\Lab7\UTILS\bin\Debug\Utils.pdb
+C:\MyGit\Lab\Lab7\UTILS\obj\Debug\Utils.exe
+C:\MyGit\Lab\Lab7\UTILS\obj\Debug\Utils.pdb
