@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab8\FINALIZERS\bin\Debug\Finalizers.exe
+C:\MyGit\Lab\Lab8\FINALIZERS\bin\Debug\Finalizers.pdb
+C:\MyGit\Lab\Lab8\FINALIZERS\obj\Debug\Finalizers.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab8\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab8\FINALIZERS\obj\Debug\Finalizers.exe
+C:\MyGit\Lab\Lab8\FINALIZERS\obj\Debug\Finalizers.pdb

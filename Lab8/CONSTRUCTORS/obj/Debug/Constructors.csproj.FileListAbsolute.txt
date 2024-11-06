@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\bin\Debug\Constructors.exe
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\bin\Debug\Constructors.pdb
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\obj\Debug\Constructors.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\obj\Debug\Constructors.exe
+C:\MyGit\Lab\Lab8\CONSTRUCTORS\obj\Debug\Constructors.pdb
