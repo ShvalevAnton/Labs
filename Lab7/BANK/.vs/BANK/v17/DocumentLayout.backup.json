@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|c:\\mygit\\lab\\lab7\\bank\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|c:\\mygit\\lab\\lab7\\bank\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|c:\\mygit\\lab\\lab7\\bank\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|C:\\MyGit\\Lab\\Lab7\\BANK\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|C:\\MyGit\\Lab\\Lab7\\BANK\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}|Bank.csproj|solutionrelative:accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 94,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab7\\BANK\\Test.cs",
-              "RelativeDocumentMoniker": "Test.cs",
-              "ToolTip": "C:\\MyGit\\Lab\\Lab7\\BANK\\Test.cs*",
-              "RelativeToolTip": "Test.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:32:12.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AccountType.cs",
               "DocumentMoniker": "C:\\MyGit\\Lab\\Lab7\\BANK\\ACCOUNTTYPE.CS",
               "RelativeDocumentMoniker": "ACCOUNTTYPE.CS",
@@ -59,31 +42,30 @@
               "RelativeToolTip": "ACCOUNTTYPE.CS",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:25:27.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T17:00:13.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab7\\BANK\\ASSEMBLYINFO.CS",
-              "RelativeDocumentMoniker": "ASSEMBLYINFO.CS",
-              "ToolTip": "C:\\MyGit\\Lab\\Lab7\\BANK\\ASSEMBLYINFO.CS",
-              "RelativeToolTip": "ASSEMBLYINFO.CS",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab7\\BANK\\Test.cs",
+              "RelativeDocumentMoniker": "Test.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab7\\BANK\\Test.cs",
+              "RelativeToolTip": "Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T16:25:25.41Z",
+              "WhenOpened": "2024-11-04T16:32:12.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\MyGit\\Lab\\Lab7\\BANK\\BANKACCOUNT.CS",
               "RelativeDocumentMoniker": "BANKACCOUNT.CS",
               "ToolTip": "C:\\MyGit\\Lab\\Lab7\\BANK\\BANKACCOUNT.CS",
               "RelativeToolTip": "BANKACCOUNT.CS",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T16:25:22.754Z",
               "EditorCaption": ""

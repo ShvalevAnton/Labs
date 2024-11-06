@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-class Book: IComparable
+class Book: IComparable <Book>
 {
     String author;
     String title;
@@ -26,7 +26,7 @@ class Book: IComparable
     }
     //public override string ToString() => $"\nКнига:\n Автор: {author}\n Название: {title}\n Год издания: {year}\n {pages} стр.\n";
 
-    int IComparable.CompareTo(object obj)
+    int CompareTo(Book obj)
     {
         Book it = (Book)obj;
         if (this.year == it.year) return 0;
