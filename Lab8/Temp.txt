@@ -1,0 +1,25 @@
+public BankAccount()
+{
+    accNo = NextNumber();
+    accType = AccountType.Checking;
+    accBal = 0;
+}
+public BankAccount(AccountType aType)
+{
+    accNo = NextNumber();
+    accType = aType;
+    accBal = 0;
+}
+
+public BankAccount(decimal aBal)
+{
+    accNo = NextNumber();
+    accType = AccountType.Checking;
+    accBal = aBal;
+}
+public BankAccount(AccountType aType, decimal aBal)
+{
+    accNo = NextNumber();
+    accType = aType;
+    accBal = aBal;
+}

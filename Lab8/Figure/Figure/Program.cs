@@ -79,14 +79,8 @@ namespace Figure
                 Console.WriteLine("Пожалуйста, напишите длину стороны равнобедренного треугольника.");
                 double sideA = Int32.Parse(Console.ReadLine());               
                 triangle = new Triangle(sideA);
-
-                if (triangle.isNotTriang())
-                {
-                    throw new Exception("Введенные точки не образуют треугольник.");
-                }
-                Console.WriteLine(triangle);
             }
-            else if (typeTriang == 2)
+            else
             {
                 // Длинна стороны А треугольника
                 Console.WriteLine("Пожалуйста, напишите длину стороны А разностороннего треугольника.");
@@ -98,14 +92,15 @@ namespace Figure
                 Console.WriteLine("Пожалуйста, напишите длину стороны С разностороннего треугольника.");
                 double sideC = Int32.Parse(Console.ReadLine());
                 
-                triangle = new Triangle(sideA, sideB, sideC);
+                triangle = new Triangle(sideA, sideB, sideC);                
+            }
 
-                if (triangle.isNotTriang())
-                {
-                    throw new Exception("Введенные точки не образуют треугольник.");
-                }
-                Console.WriteLine(triangle);
-            }    
+            if (triangle.isNotTriang())
+            {
+                throw new Exception("Введенные точки не образуют треугольник.");
+            }
+            Console.WriteLine(triangle);
+
         }
     }
 }
