@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab8\\Figure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BEE64C6-79FA-4356-87DE-54B42D781E20}|Figure\\Figure.csproj|c:\\mygit\\lab\\lab8\\figure\\figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BEE64C6-79FA-4356-87DE-54B42D781E20}|Figure\\Figure.csproj|solutionrelative:figure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab8\\Figure\\Figure\\Program.cs",
+              "RelativeDocumentMoniker": "Figure\\Program.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab8\\Figure\\Figure\\Program.cs",
+              "RelativeToolTip": "Figure\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:27:03.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

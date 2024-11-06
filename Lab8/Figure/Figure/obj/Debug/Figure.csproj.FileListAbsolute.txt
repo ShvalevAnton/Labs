@@ -1,0 +1,14 @@
+C:\MyGit\Lab\Lab6\Figure\Figure\bin\Debug\Figure.exe.config
+C:\MyGit\Lab\Lab6\Figure\Figure\bin\Debug\Figure.exe
+C:\MyGit\Lab\Lab6\Figure\Figure\bin\Debug\Figure.pdb
+C:\MyGit\Lab\Lab6\Figure\Figure\obj\Debug\Figure.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab6\Figure\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab6\Figure\Figure\obj\Debug\Figure.exe
+C:\MyGit\Lab\Lab6\Figure\Figure\obj\Debug\Figure.pdb
+C:\MyGit\Lab\Lab8\Figure\Figure\bin\Debug\Figure.exe.config
+C:\MyGit\Lab\Lab8\Figure\Figure\bin\Debug\Figure.exe
+C:\MyGit\Lab\Lab8\Figure\Figure\bin\Debug\Figure.pdb
+C:\MyGit\Lab\Lab8\Figure\Figure\obj\Debug\Figure.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab8\Figure\Figure\obj\Debug\Figure.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab8\Figure\Figure\obj\Debug\Figure.exe
+C:\MyGit\Lab\Lab8\Figure\Figure\obj\Debug\Figure.pdb
