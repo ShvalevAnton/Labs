@@ -1,0 +1,7 @@
+C:\MyGit\Lab\Lab9\MyClass\MyClass\bin\Debug\MyClass.exe.config
+C:\MyGit\Lab\Lab9\MyClass\MyClass\bin\Debug\MyClass.exe
+C:\MyGit\Lab\Lab9\MyClass\MyClass\bin\Debug\MyClass.pdb
+C:\MyGit\Lab\Lab9\MyClass\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab9\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab9\MyClass\MyClass\obj\Debug\MyClass.exe
+C:\MyGit\Lab\Lab9\MyClass\MyClass\obj\Debug\MyClass.pdb

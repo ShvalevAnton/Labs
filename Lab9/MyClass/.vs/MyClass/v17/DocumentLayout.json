@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab9\\MyClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|C:\\MyGit\\Lab\\Lab9\\MyClass\\myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|solutionrelative:myclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|c:\\mygit\\lab\\lab9\\myclass\\myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|solutionrelative:myclass\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|C:\\MyGit\\Lab\\Lab9\\MyClass\\myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|solutionrelative:myclass\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|c:\\mygit\\lab\\lab9\\myclass\\myclass\\ipubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|solutionrelative:myclass\\ipubs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|C:\\MyGit\\Lab\\Lab9\\MyClass\\myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6185B61C-6691-4B0C-BF0F-0B07A386F0F0}|MyClass\\MyClass.csproj|solutionrelative:myclass\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 94,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPubs.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\IPubs.cs",
+              "RelativeDocumentMoniker": "MyClass\\IPubs.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\IPubs.cs",
+              "RelativeToolTip": "MyClass\\IPubs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:11:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeDocumentMoniker": "MyClass\\Magazine.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Magazine.cs",
+              "RelativeToolTip": "MyClass\\Magazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:18:16.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Item.cs",
+              "RelativeDocumentMoniker": "MyClass\\Item.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Item.cs",
+              "RelativeToolTip": "MyClass\\Item.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:45:44.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Book.cs",
+              "RelativeDocumentMoniker": "MyClass\\Book.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Book.cs",
+              "RelativeToolTip": "MyClass\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:25:15.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Program.cs",
+              "RelativeDocumentMoniker": "MyClass\\Program.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\MyClass\\MyClass\\Program.cs",
+              "RelativeToolTip": "MyClass\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T18:22:00.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
