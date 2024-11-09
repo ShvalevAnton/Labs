@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyGit\\Lab\\Lab9\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|c:\\mygit\\lab\\lab9\\shapes\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC918678-6805-4A5E-8C64-2174609039FE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 101,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:39:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\IOperation.cs",
+              "RelativeDocumentMoniker": "Shapes\\IOperation.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\IOperation.cs",
+              "RelativeToolTip": "Shapes\\IOperation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:15:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Shapes\\Square.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Square.cs",
+              "RelativeToolTip": "Shapes\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:49:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:49:20.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Triangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Triangle.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Triangle.cs",
+              "RelativeToolTip": "Shapes\\Triangle.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:36:57.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Shape.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shape.cs",
+              "ToolTip": "C:\\MyGit\\Lab\\Lab9\\Shapes\\Shapes\\Shape.cs",
+              "RelativeToolTip": "Shapes\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:48:34.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
