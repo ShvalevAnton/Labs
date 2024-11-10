@@ -1,0 +1,5 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE1\SOLUTION\BANK\bin\Debug\Bank.dll
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE1\SOLUTION\BANK\bin\Debug\Bank.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE1\SOLUTION\BANK\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE1\SOLUTION\BANK\obj\Debug\Bank.dll
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE1\SOLUTION\BANK\obj\Debug\Bank.pdb
