@@ -1,1 +1,11 @@
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab13\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\TestHarness.exe.config
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\TestHarness.exe.config
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\TestHarness.exe
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\TestHarness.pdb
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\Bank.dll
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\bin\Debug\Bank.pdb
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\obj\Debug\TESTHARNESS.CSPROJ.AssemblyReference.cache
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\obj\Debug\TESTHARNESS.CSPROJ.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\obj\Debug\TESTHARN.84E39543.Up2Date
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\obj\Debug\TestHarness.exe
+C:\MyGit\Lab\Lab12\EXERCISE3\STARTER\TESTHARNESS\obj\Debug\TestHarness.pdb

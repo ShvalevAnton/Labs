@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using System.Collections;
 
+
 namespace Banking
 {
 	public delegate void AuditEventHandler (Object sender, AuditEventArgs data);
@@ -48,6 +49,22 @@ namespace Banking
 			accBal = aBal;
 		}
 
+        public BankTransaction this[int index]
+		{
+			//get => new BankTransaction(99);
+			get
+			{
+				if (index < 0 || index >= tranQueue.Count)
+					return null;
+				IEnumerator ie = tranQueue.GetEnumerator();
+				for (int i = 0; i <= index; i++)
+				{
+					ie.MoveNext();
+				}
+				BankTransaction tran = (BankTransaction)ie.Current;
+				return tran;
+			}
+		}
 		public void AddOnAuditingTransaction(AuditEventHandler handler)
 		{
 			this.AuditingTransaction += handler;

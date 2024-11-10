@@ -1,6 +1,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank.csproj", "{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTHARNESS", "..\TESTHARNESS\TESTHARNESS.CSPROJ", "{29F9953A-B627-4485-8E5E-216BBDE97DF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,8 +16,15 @@ Global
 		{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE64DDB7-892C-4C58-AF09-1FF08C7CA0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29F9953A-B627-4485-8E5E-216BBDE97DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F9953A-B627-4485-8E5E-216BBDE97DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F9953A-B627-4485-8E5E-216BBDE97DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F9953A-B627-4485-8E5E-216BBDE97DF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C84E43A1-2287-47CB-9E23-12D9A7FAE2B6}
 	EndGlobalSection
 EndGlobal

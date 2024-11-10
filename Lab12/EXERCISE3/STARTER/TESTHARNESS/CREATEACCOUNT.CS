@@ -3,6 +3,8 @@ using System;
 using System.Collections;
 using Banking;
 
+
+
 // Test harness
 class CreateAccount
 {
@@ -23,7 +25,14 @@ class CreateAccount
 		Console.WriteLine("acc1 - {0}", acc1);
 		Console.WriteLine("acc2 - {0}", acc2);
 
-		// PUT THE TEST CODE HERE
+        for (int i = 0; i < 5; i++)
+        {
+            acc1.Deposit(100);
+            acc1.Withdraw(50);
+        }
+        Write(acc1);
+
+        // PUT THE TEST CODE HERE
     }
 
 	static void Write(BankAccount acc)
@@ -37,8 +46,10 @@ class CreateAccount
 		Queue tranQueue = acc.Transactions();
 
 		// Replace this loop with a for loop that uses an indexer
-		foreach (BankTransaction tran in tranQueue) {
-			Console.WriteLine("Date: {0}\tAmount: {1}", tran.When, tran.Amount);
+		//foreach (BankTransaction tran in tranQueue) {
+		for(int counter = 0; counter < tranQueue.Count; counter++) {
+            BankTransaction tran = acc[counter];
+            Console.WriteLine("Date: {0}\tAmount: {1}", tran.When, tran.Amount);
 		}
     }
 
