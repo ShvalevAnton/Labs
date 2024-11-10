@@ -3,3 +3,13 @@ C:\Documents and Settings\HP Compaq\My Documents\for Studio_C#\Console_Course\My
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab14\STARTER\RATIONAL\obj\Debug\Rational.exe
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab14\STARTER\RATIONAL\obj\Debug\Rational.pdb
 E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\C#_осень_2018\Labs_2018_\Lab14\STARTER\RATIONAL\bin\Debug\Rational.exe.config
+C:\MyGit\Lab\Lab13\RATIONAL\bin\Debug\Rational.exe.config
+C:\MyGit\Lab\Lab13\RATIONAL\bin\Debug\Rational.exe
+C:\MyGit\Lab\Lab13\RATIONAL\bin\Debug\Rational.pdb
+C:\MyGit\Lab\Lab13\RATIONAL\obj\Debug\RATIONAL.CSPROJ.AssemblyReference.cache
+C:\MyGit\Lab\Lab13\RATIONAL\obj\Debug\RATIONAL.CSPROJ.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab13\RATIONAL\obj\Debug\Rational.exe
+C:\MyGit\Lab\Lab13\RATIONAL\obj\Debug\Rational.pdb
+C:\MyGit\Lab\Lab13\RATIONAL\bin\Debug\CustomAttribute.dll
+C:\MyGit\Lab\Lab13\RATIONAL\bin\Debug\CustomAttribute.pdb
+C:\MyGit\Lab\Lab13\RATIONAL\obj\Debug\RATIONAL.CSPROJ.Up2Date

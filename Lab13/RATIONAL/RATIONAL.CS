@@ -1,11 +1,14 @@
-namespace Rational
-{
 using System;
 
-/// <summary>
-///    Rational defines a class for holding and manipulating rational numbers
-/// </summary>
-public class Rational
+namespace Rational
+{
+
+
+    // <summary>
+    //    Rational defines a class for holding and manipulating rational numbers
+    // </summary>
+    [CustomAttribute.DeveloperInfo("Svekolnikov FD", Date = "10-11-2024"), CustomAttribute.DeveloperInfo("Pechkin II", Date = "10-11-2024")]
+    public class Rational
 {
     private int dividend = 0;
 	private int divisor = 1;

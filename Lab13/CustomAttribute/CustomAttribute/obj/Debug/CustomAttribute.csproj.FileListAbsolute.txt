@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\bin\Debug\CustomAttribute.dll
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\bin\Debug\CustomAttribute.pdb
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.dll
+C:\MyGit\Lab\Lab13\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.pdb
