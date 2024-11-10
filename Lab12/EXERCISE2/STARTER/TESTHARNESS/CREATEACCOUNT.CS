@@ -19,13 +19,23 @@ class CreateAccount
 		BankAccount acc1 = Bank.GetAccount(accNo1);
 		BankAccount acc2 = Bank.GetAccount(accNo2);
 
-		// ADD CODE HERE TO DEPOSIT AND WITHDRAW MONEY FROM acc1 AND acc2
+		// положил деньги на счет
+		acc1.Deposit(100);
+		acc2.Deposit(200);
+		Write(acc1);
+        Write(acc2);
+        // снял деньги на счет
+        acc1.Withdraw(50);
+        acc2.Withdraw(100);
+        Write(acc1);
+        Write(acc2);
+        // ADD CODE HERE TO DEPOSIT AND WITHDRAW MONEY FROM acc1 AND acc2
 
-		// PRINT THE TRANSACTION HISTORY FOR EACH ACCOUNT - USE THE Write METHOD (BELOW)
+        // PRINT THE TRANSACTION HISTORY FOR EACH ACCOUNT - USE THE Write METHOD (BELOW)
 
-		// Print the accounts, using ToString
-		Console.WriteLine("acc1 - {0}", acc1);
-		Console.WriteLine("acc2 - {0}", acc2);
+        // Print the accounts, using ToString
+		// Console.WriteLine("acc1 - {0}", acc1);
+		//Console.WriteLine("acc2 - {0}", acc2);
     }
 
 	static void Write(BankAccount acc)

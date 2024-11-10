@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\bin\Debug\Bank.dll
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\bin\Debug\Bank.pdb
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\obj\Debug\Bank.dll
+C:\MyGit\Lab\Lab12\EXERCISE2\STARTER\BANK\obj\Debug\Bank.pdb

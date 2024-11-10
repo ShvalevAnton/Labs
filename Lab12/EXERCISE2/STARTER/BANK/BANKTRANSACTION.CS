@@ -15,14 +15,8 @@
 				when = DateTime.Now;
 			}
 
-			public decimal Amount()
-			{
-				return amount;
-			}
+			public decimal Amount { get => amount; }
 
-			public DateTime When()
-			{
-				return when;
-			}		
+			public DateTime When { get => when; }		
 		}
 	}

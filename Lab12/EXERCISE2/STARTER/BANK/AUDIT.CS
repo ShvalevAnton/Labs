@@ -20,7 +20,7 @@ namespace Banking
 		{
 			BankTransaction tempTrans = eventData.getTransaction();
 			if (tempTrans != null)
-				this.auditFile.WriteLine("Amount: {0}\tDate: {1}", tempTrans.Amount(), tempTrans.When());
+				this.auditFile.WriteLine("Amount: {0}\tDate: {1}", tempTrans.Amount, tempTrans.When);
 		}
 
 		public void Close()
