@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Collections;
+using System.Diagnostics;
 
 namespace Banking
 {
@@ -47,8 +48,14 @@ namespace Banking
 			accType = aType;
 			accBal = aBal;
 		}
+        [Conditional("DEBUG_ACCOUNT")]
+        public void DumpToScreen()
+        {
+            Console.WriteLine("Debugging account {0}. Holder is {1}. Type is {2}. Balance is {3}",
+            this.accNo, this.holder, this.accType, this.accBal);
+        }
 
-		public BankTransaction this[int index]
+        public BankTransaction this[int index]
 		{
 			get 
 			{
