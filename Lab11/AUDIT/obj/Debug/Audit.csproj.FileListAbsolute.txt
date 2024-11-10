@@ -1,0 +1,6 @@
+C:\MyGit\Lab\Lab11\AUDIT\bin\Debug\Audit.dll
+C:\MyGit\Lab\Lab11\AUDIT\bin\Debug\Audit.pdb
+C:\MyGit\Lab\Lab11\AUDIT\obj\Debug\Audit.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab11\AUDIT\obj\Debug\Audit.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab11\AUDIT\obj\Debug\Audit.dll
+C:\MyGit\Lab\Lab11\AUDIT\obj\Debug\Audit.pdb

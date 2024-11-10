@@ -1,0 +1,9 @@
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.exe
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\bin\Debug\AuditTestHarness.pdb
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\bin\Debug\Audit.dll
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\bin\Debug\Audit.pdb
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTes.95127368.Up2Date
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.exe
+C:\MyGit\Lab\Lab11\AUDITTESTHARNESS\obj\Debug\AuditTestHarness.pdb
