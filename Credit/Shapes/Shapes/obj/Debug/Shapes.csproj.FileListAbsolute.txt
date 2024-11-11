@@ -1,0 +1,14 @@
+C:\MyGit\Lab\Lab9\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Lab9\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Lab9\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\MyGit\Lab\Lab9\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\MyGit\Lab\Lab9\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\MyGit\Lab\Lab9\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\MyGit\Lab\Lab9\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\MyGit\Lab\Credit\Shapes\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\MyGit\Lab\Credit\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\MyGit\Lab\Credit\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\MyGit\Lab\Credit\Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\MyGit\Lab\Credit\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\MyGit\Lab\Credit\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\MyGit\Lab\Credit\Shapes\Shapes\bin\Debug\Shapes.pdb
